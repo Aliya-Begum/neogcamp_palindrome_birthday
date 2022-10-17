@@ -179,6 +179,7 @@ function getPreviousPalindromeDate(date) {
 
 
 function clickHandler(e) {
+
   var bdayString = dateInput.value;
 
   if (bdayString !== "") {
@@ -216,6 +217,8 @@ function clickHandler(e) {
     } else {
       outputDiv.innerText = "Yay! Your birthday is palindrome!";
     }
+  }else{
+      outputDiv.innerText = "Please enter your birth date";
   }
 }
 
