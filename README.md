@@ -1,1 +1,0 @@
-# neogcamp_palindrome_birthday
