@@ -1,7 +1,7 @@
 
 # Palindrome Birthday
 
-This webpage checks whether the given birht date is palindrome or not.
+This webpage checks whether the given birth date is palindrome or not.
 If not palindrome this will show you the nearest palindrome date.
 
 This webpage made using HTML CSS and JavaScript.
